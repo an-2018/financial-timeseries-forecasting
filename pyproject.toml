@@ -1,0 +1,15 @@
+[project]
+name = "rnn-financial-prediction"
+version = "0.1.0"
+description = "RNN/LSTM project for financial time series prediction"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "yfinance",
+    "tensorflow",
+    "keras",
+]
